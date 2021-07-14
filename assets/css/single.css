@@ -1,0 +1,142 @@
+/*====================
+------page information styles-------
+=======================*/
+#page-inf{
+    padding: 15px 0;
+    background: #FF7579;
+
+}
+#page-inf ul li {
+    margin-right: 10px;
+}
+#page-inf ul li span{
+    margin-right: 5px;
+}
+#page-inf ul li a{
+    color: #e0e0e0;
+}
+
+
+/*====================
+------product style-------
+=======================*/
+#pDetails{
+    padding: 50px 0;
+}
+#pDetails .thumbnail {
+    border: none;
+}
+
+#pDetails .details .reviewss .stars {
+    display: inline-block;
+    margin: 10px 0 ;
+}
+#pDetails .details .reviewss a {
+    margin: 0 10px;
+
+}
+#pDetails .details .littleabout {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #666666;
+}
+#pDetails .details .littleabout span {
+    font-weight: bold;
+    margin-right: 5px;
+
+}
+#pDetails .details .colorbox  {
+    margin-top: 20px ;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #666666;
+
+}
+#pDetails .details .colorbox h4{
+    margin-bottom: 10px;
+}
+#pDetails .details .cartOption {
+margin: 20px 0;
+
+}
+#pDetails .details .cartOption input {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+/*description styles*/
+
+#pDetails .description .panel .fa-border{
+    background: #FAFAFA;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    color: #fff;
+    background-color: #FF7579;
+}
+
+#pDetails .widget {
+    margin: 0;
+}
+#pDetails .widget img{
+    max-width: 100%;
+}
+#pDetails .widget .recent-box {
+    margin-top: 20px;
+}
+#pDetails .widget .recent-details h4 a {
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+}
+#pDetails .widget .recent-details .stars{
+    margin: 10px 0;
+}
+#pDetails .widget .recent-details p {
+    font-size: 20px;
+    margin: 0;
+    color: #8e0000;
+}
+
+
+
+/*********************************************************************************/
+/* purchased Section styles*/
+/*********************************************************************************/
+
+#purchased {
+    padding: 50px 0;
+}
+#purchased .section-heading {
+    padding-bottom: 15px;
+}
+#purchased .section-heading h2 {
+    padding-left: 10px;
+    border-left: 5px solid #FF7579;
+}
+#purchased .container{
+    position: relative;
+}
+#purchased .container .mycontrols{
+    position: absolute;
+    top: 0;
+    right: 5px;
+}
+
+#purchased .container .mycontrols a{
+    background: #f9f9f9;
+    padding: 10px 20px;
+    border: 1px solid #444444;
+}
+
+
+#purchased .section-heading h2::after {
+    background: rgba(0, 0, 0, 0) url("../images/patterns/line.png") repeat scroll 0 0;
+    content: "";
+    display: inline-block;
+    float: right;
+    height: 10px;
+    margin-top: 13px;
+    vertical-align: middle;
+    width: 91%;
+}
+#purchased .section-heading p {
+    margin: 10px 0;
+}

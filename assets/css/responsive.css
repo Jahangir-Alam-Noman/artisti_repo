@@ -1,0 +1,143 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    body {
+        font-size: 12px;
+    }
+    .h2,
+    h2 {
+        font-size: 25px;
+    }
+    .headerMain .navbar-brand img {
+        width: 70%;
+    }
+
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        border-color: #ffffff;
+    }
+
+
+    #shipping .img-responsive {
+        margin-bottom: 15px;
+    }
+    #onsale .section-heading h2::after {
+        background: transparent;
+    }
+    #signup h4 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    #signup .form-inline .form-control {
+        background: transparent none repeat scroll 0 0;
+        display: inline-block;
+        vertical-align: middle;
+        width: 290px;
+    }
+    #footer .top h5 {
+        font-size: 1.5em;
+        margin-bottom: 5px;
+        margin-top: 25px;
+    }
+    #footer .bottom ul.social a {
+        background: #636363 none repeat scroll 0 0;
+        border: 1px solid #636363;
+        color: #fafafa;
+        font-size: 12px;
+        padding: 4px 5px;
+        transition: all 0.5s ease-in-out 0s;
+    }
+}
+
+
+@media (min-width: 360px) and (max-width: 640px) {
+    body {
+        font-size: 12px;
+    }
+    .h2,
+    h2 {
+        font-size: 25px;
+    }
+    .headerMain .navbar-brand img {
+        width: 70%;
+    }
+    #signup .form-inline .form-control {
+        background: transparent none repeat scroll 0 0;
+        display: inline-block;
+        vertical-align: middle;
+        width: 330px;
+    }
+}
+
+@media (min-width: 768px) and (max-width:979px) {
+
+
+    .carousel-caption {
+        bottom: -14px;
+        color: #fff;
+        left: 38%;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        position: absolute;
+        right: 1%;
+        text-align: left;
+        text-shadow: none;
+        z-index: 10;
+    }
+}
+
+
+
+
+
+
+
+
+@media (min-width: 800px) and (max-width: 979px) {
+    body {
+        font-size: 12px;
+    }
+    .h2,
+    h2 {
+        font-size: 25px;
+    }
+    .headerMain .navbar-brand img {
+        width: 70%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    body {
+        font-size: 13px;
+    }
+
+    h2 {
+        font-size: 27px;
+    }
+    .headerMain .navbar-brand img {
+        width: 70%;
+    }
+
+    .carousel-caption {
+        bottom: 14px;
+        color: #fff;
+        left: 40%;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        position: absolute;
+        right: 15%;
+        text-align: left;
+        text-shadow: none;
+        z-index: 10;
+    }
+}
+
+
+@media (min-width: 981px) and (max-width: 1280px) {
+
+
+    #welcome img {
+        margin-top: 50px;
+    }
+}
+
+
+@media (min-width: 1281px) {}

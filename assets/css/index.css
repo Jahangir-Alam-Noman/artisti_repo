@@ -1,0 +1,237 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*====================
+------slider style-------
+=======================*/
+.carousel-control.left {
+  background: transparent;  
+}
+.carousel-control.right {
+  background: transparent;  
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 55%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: left;
+    text-shadow: none;
+}
+.panel .title h1 {
+    color: #1c263c;
+    font-size: 30px;
+    font-weight: 500;
+}
+.panel .content p {
+    font-size: 15px;
+    color: #191919;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 1.5em;
+}
+.panel .title h1 span {
+    color: #FF7579;
+}
+.panel {
+    background-color: transparent;
+}
+.banner .banner-bg #carousel #slides ul li:nth-child(3) img {
+    left: 20px;
+    position: absolute;
+    top: 141px;
+}
+.banner img {
+    position: relative;
+    top: 50px;
+    width: 80%;
+    height: 80%;
+}
+/*====================
+------shipping style-------
+=======================*/
+
+.middle-bannar {
+    margin: 28px 0;
+}
+/*********************************************************************************/
+/* latest Section styles*/
+/*********************************************************************************/
+
+#latest {
+    padding: 50px 0;
+}
+#latest .container{
+    position: relative;
+}
+#latest .container .mycontrols{
+    position: absolute;
+    top: 0;
+    right: 5px;
+}
+
+#latest .container .mycontrols a{
+    background: #f9f9f9;
+    padding: 10px 20px;
+    border: 1px solid #444444;
+}
+
+
+
+#latest .section-heading {
+    padding-bottom: 15px;
+}
+#latest .section-heading h2 {
+    padding-left: 10px;
+    border-left: 5px solid #FF7579;
+}
+#latest .section-heading h2::after {
+    background: rgba(0, 0, 0, 0) url("../images/patterns/line.png") repeat scroll 0 0;
+    content: "";
+    display: inline-block;
+    float: right;
+    height: 10px;
+    margin-top: 13px;
+    vertical-align: middle;
+    width: 85%;
+}
+#latest .section-heading p {
+    margin: 10px 0;
+}
+
+
+/*====================
+------welcome style-------
+=======================*/
+
+#welcome {
+    padding: 50px 0;
+}
+#welcome .section-heading h2 {
+    padding-left: 10px;
+    border-left: 5px solid #FF7579;
+}
+
+#welcome p {
+    margin-top: 5px;
+    line-height: 1.8em;
+}
+#welcome .image {} #welcome p span {
+                       padding-left: 20px;
+                   }
+#welcome p a.theme {
+    color: #FF7579;
+}
+/*====================
+------onsale style-------
+=======================*/
+
+#onsale {
+    padding: 50px 0;
+}
+#onsale .section-heading {
+    padding-bottom: 15px;
+}
+
+#onsale .container{
+    position: relative;
+}
+#onsale .container .mycontrols{
+    position: absolute;
+    top: 0;
+    right: 5px;
+}
+
+#onsale .container .mycontrols a{
+    background: #f9f9f9;
+    padding: 10px 20px;
+    border: 1px solid #444444;
+}
+
+#onsale .section-heading h2 {
+    padding-left: 10px;
+    border-left: 5px solid #FF7579;
+}
+#onsale .section-heading h2::after {
+    background: rgba(0, 0, 0, 0) url("../images/patterns/line.png") repeat scroll 0 0;
+    content: "";
+    display: inline-block;
+    float: right;
+    height: 10px;
+    margin-top: 13px;
+    vertical-align: middle;
+    width: 85%;
+}
+#onsale .section-heading p {
+    margin: 10px 0;
+}
+
+
+
+
+/*====================
+------manufacture style-------
+=======================*/
+
+#manufature {
+    padding: 30px 0 50px;
+}
+#manufature .owlCarousel {
+    margin: 20px 0;
+}
+#manufature .section-heading {
+    padding-bottom: 15px;
+}
+#manufature .section-heading h2 {
+    padding-left: 10px;
+    border-left: 5px solid #FF7579;
+}
+
+#manufature .section-heading h2::after {
+    background: rgba(0, 0, 0, 0) url("../images/patterns/line.png") repeat scroll 0 0;
+    content: "";
+    display: inline-block;
+    float: right;
+    height: 10px;
+    margin-top: 15px;
+    vertical-align: middle;
+    width: 75%;
+}
+
+#latest .section-heading p {
+    margin: 10px 0;
+}
+
+#productslider {
+    padding: 50px 0;
+}
+
+
+
+
+
+#manufature #owl-demo .item {
+    margin: 3px;
+}
+#manufature #owl-demo .item img {
+    display: block;
+    width: 100%;
+    height: auto;
+}

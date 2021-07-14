@@ -1,0 +1,51 @@
+/* ----contact styles start-----*/
+
+#googlemap {
+    padding: 50px 0;
+}
+#googlemap .section-heading {
+    padding-bottom: 15px;
+}
+
+#googlemap .section-heading h2 {
+    padding-left: 10px;
+    border-left: 5px solid #FF7579;
+}
+#googlemap .section-heading p {
+    margin: 10px 0;
+}
+
+
+#comment {
+    padding: 50px 0;
+}
+#comment .col-md-3 .item-heading h2{
+    margin-bottom: 15px;
+}
+#comment .col-md-3 .row {
+    margin-top: 10px;
+}
+#comment .col-md-3 .row i {
+    background: #ff7579 ;
+    padding: 7px 11px;
+    border-radius: 15%;
+}
+#comment .col-md-3 .col-md-10 p{
+    margin-top: 2px;
+    margin-left: 10px;
+}
+
+#comment  .form-horizontal .form-group {
+    margin: 20px -15px 10px 0;
+}
+#comment  .form-horizontal .form-group .input-group-addon{
+    color: #FF7579;
+}
+#comment  .form-horizontal .form-group i {
+    margin-right: 5px;
+}
+
+#comment  .form-horizontal .form-group:nth-child(1) .input-group-addon {
+    border-right: 0;
+    padding-right: 25px;
+}

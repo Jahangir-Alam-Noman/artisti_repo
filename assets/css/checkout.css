@@ -1,0 +1,115 @@
+/* ----checkout styles start-----*/
+
+#checkout {
+    padding: 50px 0;
+}
+#checkout .section-heading {
+    padding-bottom: 15px;
+}
+
+#checkout .section-heading h2 {
+    padding-left: 10px;
+    border-left: 5px solid #FF7579;
+}
+#checkout .content .panel-default > .panel-heading {
+    color: #333;
+    background-color: #f5f5f5;
+    border: 1px solid #cbcbcb;
+}
+#checkout .content .panel {
+    border: 1px solid transparent;
+}
+#checkout .content .panel .panel-body > .row {
+    padding-bottom: 50px;
+}
+#checkout .content .panel #option .panel-collapse{
+    position: relative;
+}
+#checkout .content .panel #option .panel-body h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#checkout .content .panel #option .panel-body p {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#checkout .content .panel #option .panel-body .checkbox {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+#checkout .content #option .form-horizontal .form-group {
+    margin: 20px -15px 10px 0;
+}
+#checkout .content #option .form-horizontal .form-group .input-group-addon{
+    color: #FF7579;
+}
+#checkout .content #option .form-horizontal .form-group i {
+    margin-right: 5px;
+}
+
+#checkout .content #option .form-horizontal .form-group:nth-child(1) .input-group-addon {
+    border-right: 0;
+    padding-right: 35px;
+}
+#checkout .content #option .form-horizontal  .continue{
+    position: absolute;
+    top: 195px;
+    left: -555px;
+
+}
+
+#checkout .content #confirm td:nth-child(1){
+    width: 35%;
+
+}
+#checkout .content #confirm  h4{
+    margin: 25px 20px;
+}
+#checkout .content #confirm p{
+    margin: 10px 0;
+}
+#checkout .content #confirm table tbody td:nth-child(3){
+    font-weight: bold;
+}
+#checkout .content #confirm table tbody td:nth-child(5){
+    color: red;
+    font-weight: bold;
+}
+/*#checkout .content #confirm table tbody tr:nth-child(8) td:nth-child(2){*/
+/*color: red;*/
+/*}*/
+#checkout .content #confirm table tbody span{
+    margin-left: 10px;
+    padding: 5px;
+    border: 1px solid #c6c6c6;
+}
+#checkout .content #confirm input{
+    padding: 10px;
+
+}
+
+/*#checkout .content #confirm table tbody .total{*/
+/*color: #F00;}*/
+#checkout .content #confirm table tbody tr:nth-child(6) td:nth-child(2){
+    color: red;
+    font-weight: bold;}
+
+#checkout .content #confirm table tbody tr:nth-child(6) td:nth-child(1){
+    font-size: 18px;
+/font-weight: bold;
+}
+#checkout .content #confirm table tbody tr:nth-child(6){
+    font-weight: bold;
+}
+#checkout .content #confirm table tbody tr:nth-child(3){
+    font-weight: bold;
+}
+#checkout .content #confirm table tbody tr:nth-child(4){
+    font-weight: bold;
+}
+#checkout .content #confirm table tbody tr:nth-child(5){
+    font-weight: bold;
+}
